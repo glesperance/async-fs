@@ -1,0 +1,18 @@
+{
+  "name": "async-fs"
+, "description": "Asynchronous file system utilities library for nodeJS"
+, "version": "0.0.1"
+, "homepage": "http://wavo.me"
+, "repository":
+  { "type" : "git"
+  , "url" : "git://github.com/glesperance/async-fs.git"
+  }
+, "author": "Gabriel Lesperance <gabriel@wavo.me> (glesperance.com / wavo.me)"
+, "main": "async_fs.js"
+, "engines": {
+    "node": ">=0.4.10"
+  }
+, "dependencies": {
+      "async"             : ">= 0.1.9""
+  }
+}
