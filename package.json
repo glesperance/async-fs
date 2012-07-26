@@ -1,7 +1,7 @@
 {
   "name": "async-fs"
 , "description": "Asynchronous file system utility library for nodeJS"
-, "version": "0.0.3"
+, "version": "0.0.4"
 , "homepage": "http://wavo.me"
 , "repository":
   { "type" : "git"
